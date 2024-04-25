@@ -1,0 +1,48 @@
+/* ini file css */
+
+main {
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 64px;
+    padding-bottom: 64px;
+}
+
+main.title {
+    text-align: center;
+}
+
+.main-section {
+    padding: 16px;
+    background-color: aliceblue;
+    border-radius: 4px;
+}
+
+.section-celcius {
+    padding-top: 16px;
+}
+
+.section-fahrenheit {
+    padding-top: 16px;
+}
+
+.section-result {
+    padding-top: 16px;
+}
+
+.section-explanation {
+    padding-top: 16px;
+}
+
+textarea {
+    width: 75%;
+    height: 32px;
+}
+
+.formula-s {
+    font-size: 40px;
+    font-style: italic;
+}
+
+.formula-s>sub {
+        font-style: normal;
+}
